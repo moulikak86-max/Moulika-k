@@ -1,0 +1,13 @@
+{
+  "name": "Remix: EduStory",
+  "description": "An AI-powered educational app that explains complex concepts through engaging storytelling and continuous learning paths in multiple languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Storytelling",
+    "Multilingual Support",
+    "Voice Interaction",
+    "Smart Quizzes"
+  ]
+}
